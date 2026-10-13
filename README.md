@@ -14,3 +14,11 @@ This is my first repository for learning Git and GitHub.
 - Python and GeoPandas
 - QGIS and spatial data analysis
 - Civil engineering data analysis
+
+
+## GitHub Terminology
+
+- Repository: A project containing files and version history.
+- Commit: A recorded snapshot of changes.
+- Branch: A separate line of development.
+- README: A file explaining the project.
