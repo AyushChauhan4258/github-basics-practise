@@ -11,8 +11,8 @@ This is my first repository for learning Git and GitHub.
 - Build projects for civil engineering internships
 
 ## Future Projects
-- Python and GeoPandas
 - QGIS and spatial data analysis
+- QGIS and spatial data analysisPython and GeoPandas
 - Civil engineering data analysis
 
 
